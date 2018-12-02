@@ -1,0 +1,6 @@
+﻿token=NDgxNTgzNzg4Nzk5ODE5Nzgw.DtCq7Q.F_BzpwdEv6V2R6xQjnD6O5au78U
+owner=474679007732826112
+prefix= 3
+game= ..
+stayinchannel=true
+songinstatus=true 
